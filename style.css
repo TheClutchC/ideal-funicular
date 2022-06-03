@@ -1,6 +1,11 @@
 .homepage-title{
     background-color: brown;
     color: blanchedalmond;
-    text-align: center;
-    
+    text-align: center;   
+    margin: 1.5em;
+}
+
+.homepage-intro {
+    background-color: chocolate;
+    margin: 1.5em;
 }
