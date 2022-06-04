@@ -1,19 +1,25 @@
-body {
-    background-image: url("images/wooble.gif");
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    align-items: center;
+.logo1 {
+    background-color: rgb(45, 46, 48);
+    padding: 10px;
+}
+
+.bg-image-1 {
+    background-image: url("images/1s&0s.gif");
+    height: 100%;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .homepage-title{
-    background-color: brown;
+    
     color: blanchedalmond;
     text-align: center;   
     margin: 1.5em;
 }
 
 .homepage-intro {
-    background-color: chocolate;
+    color: blanchedalmond;
     margin: 1.5em;
 }
