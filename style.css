@@ -1,6 +1,9 @@
 .logo1 {
     background-color: rgb(45, 46, 48);
     padding: 10px;
+    display: flex;
+    justify-content: space-around;
+
 }
 
 .bg-image-1 {
